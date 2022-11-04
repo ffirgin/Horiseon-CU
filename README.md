@@ -55,3 +55,6 @@ SOFTWARE.
 
 - Changed the 'seo' part of Horiseon on the header to yellow to be more visible.
 - Added an underline to the 'seo' part of Horiseon on the footer to stand out.
+
+
+GitHub Pages URL: https://ffirgin.github.io/Horiseon-CU/
